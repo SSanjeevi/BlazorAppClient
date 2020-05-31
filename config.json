@@ -1,13 +1,10 @@
 {
     "firebase": {
-        "apiKey": "AIzaSyCeDuxmzAA_3FlJO-Tsif-aDEjfaY9i0Kc",
-        "authDomain": "tnpscquickies.firebaseapp.com",
-        "databaseURL": "https://tnpscquickies.firebaseio.com",
-        "projectId": "tnpscquickies",
-        "storageBucket": "tnpscquickies.appspot.com",
-        "messagingSenderId": "546471412620",
-        "appId": "1:546471412620:web:12b7f1a2e232bae9980ca9",
-        "measurementId": "G-LSFEKRLP1W"
+        "apiKey": "< your API key >",
+        "authDomain": "< your domain >.firebaseapp.com",
+        "databaseURL": "https://< your database URL >.firebaseio.com",
+        "projectId": "< your project ID >",
+        "storageBucket": "< your storage bucket >.appspot.com"
     },
     "environment": "runtime"
 }
