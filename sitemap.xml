@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="profile" href="https://gmpg.org/xfn/11" />
+  <link rel="pingback" href="https://tnpscquickies.com/xmlrpc.php">
+
+  <script>var sekFrontLocalized = {"isDevMode":"","frontNonce":{"id":"SEKFrontNonce","handle":"186aad10c1"},"skope_id":"skp__home","recaptcha_public_key":"","lazyload_enabled":"1","video_bg_lazyload_enabled":"1","load_front_assets_on_scroll":"","assetVersion":"2.0.20","frontAssetsPath":"\/wp-content\/plugins\/nimble-builder\/assets\/front\/","contextuallyActiveModules":{"czr_post_grid_module":["__nimble__498d6a09cbc6"]},"fontAwesomeAlreadyEnqueued":""};</script>            <script id="nimble-app-init">window.nb_={},function(e,n){if(window.nb_={isArray:function(e){return Array.isArray(e)||"[object Array]"===toString.call(e)},inArray:function(e,n){return!(!nb_.isArray(e)||nb_.isUndefined(n))&&e.indexOf(n)>-1},isUndefined:function(e){return void 0===e},isObject:function(e){var n=typeof e;return"function"===n||"object"===n&&!!e},errorLog:function(){nb_.isUndefined(console)||"function"!=typeof window.console.log||console.log.apply(console,arguments)},hasPreloadSupport:function(e){var n=document.createElement("link").relList;return!(!n||!n.supports)&&n.supports("preload")},listenTo:function(e,n){var t={"nb-jquery-loaded":function(){return"undefined"!=typeof jQuery},"nb-app-ready":function(){return void 0!==window.nb_&&nb_.wasListenedTo("nb-jquery-loaded")},"nb-jmp-parsed":function(){return"undefined"!=typeof jQuery&&void 0!==jQuery.fn.magnificPopup},"nb-main-swiper-parsed":function(){return void 0!==window.Swiper}},i=function(i){nb_.isUndefined(t[e])||!1!==t[e]()?(n(),nb_.eventsListenedTo.push(e)):nb_.errorLog("Nimble error => an event callback could not be fired because conditions not met => ",e,nb_.eventsListenedTo)};"function"==typeof n?nb_.wasEmitted(e)?i():document.addEventListener(e,i):nb_.errorLog("Nimble error => listenTo func param is not a function for event => ",e)},eventsEmitted:[],eventsListenedTo:[],emit:function(e,n){if(!(nb_.isUndefined(n)||n.fire_once)||!nb_.wasEmitted(e)){var t=document.createEvent("Event");t.initEvent(e,!0,!0),document.dispatchEvent(t),nb_.eventsEmitted.push(e)}},wasListenedTo:function(e){return"string"==typeof e&&nb_.inArray(nb_.eventsListenedTo,e)},wasEmitted:function(e){return"string"==typeof e&&nb_.inArray(nb_.eventsEmitted,e)},isInScreen:function(e){if(!nb_.isObject(e))return!1;var n=e.getBoundingClientRect(),t=Math.max(document.documentElement.clientHeight,window.innerHeight);return!(n.bottom<0||n.top-t>=0)},isCustomizing:function(){return!1},isLazyLoadEnabled:function(){return!nb_.isCustomizing()&&!1},preloadAsset:function(e){if(e=e||{},nb_.preloadedAssets=nb_.preloadedAssets||[],!nb_.inArray(nb_.preloadedAssets,e.id)){var n=document.getElementsByTagName("head")[0],t=document.createElement("link"),i=(e.as,function(){if("style"===e.as)this.setAttribute("rel","stylesheet");else{var t=document.createElement("script");t.setAttribute("src",e.href),t.setAttribute("id",e.id),nb_.hasPreloadSupport()||"script"!==e.as||t.setAttribute("defer","defer"),n.appendChild(t),this&&this.parentNode&&this.parentNode.removeChild(this)}});nb_.hasPreloadSupport()||"script"!==e.as?(t.setAttribute("href",e.href),t.setAttribute("rel",nb_.hasPreloadSupport()?"preload":"stylesheet"),t.setAttribute("id",e.id),t.setAttribute("as",e.as),t.onload=function(){this.onload=null,e.onEvent?nb_.listenTo(e.onEvent,function(){i.call(t)}):i.call(t)},t.onerror=function(n){nb_.errorLog("Nimble preloadAsset error",n,e)}):e.onEvent?nb_.listenTo(e.onEvent,function(){i.call(t)}):i.call(t),n.appendChild(t),nb_.preloadedAssets.push(e.id),e.scriptEl&&e.scriptEl.parentNode&&e.scriptEl.parentNode.removeChild(e.scriptEl)}},mayBeRevealBG:function(){this.getAttribute("data-sek-src")&&(this.setAttribute("style",'background-image:url("'+this.getAttribute("data-sek-src")+'")'),this.className+=" sek-lazy-loaded",this.querySelectorAll(".sek-css-loader").forEach(function(e){nb_.isObject(e)&&e.parentNode.removeChild(e)}))}},window.NodeList&&!NodeList.prototype.forEach&&(NodeList.prototype.forEach=function(e,n){n=n||window;for(var t=0;t<this.length;t++)e.call(n,this[t],t,this)}),nb_.listenTo("nb-docready",function(){var e=document.querySelectorAll("div.sek-has-bg");!nb_.isObject(e)||e.length<1||e.forEach(function(e){nb_.isObject(e)&&nb_.isInScreen(e)&&nb_.mayBeRevealBG.call(e)})}),"complete"===document.readyState||"loading"!==document.readyState&&!document.documentElement.doScroll)nb_.emit("nb-docready");else{var t=function(){nb_.wasEmitted("nb-docready")||nb_.emit("nb-docready")};document.addEventListener("DOMContentLoaded",t),window.addEventListener("load",t)}}(window,document);</script>
+            <title>TNPSC Quickies &#8211; Free TNPSC exams coaching</title>
+<script>document.documentElement.className = document.documentElement.className.replace("no-js","js");</script>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TNPSC Quickies &raquo; Feed" href="https://tnpscquickies.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="TNPSC Quickies &raquo; Comments Feed" href="https://tnpscquickies.com/?feed=comments-rss2" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://tnpscquickies.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sek-base-css'  href='/wp-content/plugins/nimble-builder/assets/front/css/sek-base.min.css?ver=2.0.20' type='text/css' media='all' />
+<link rel='stylesheet' id='hueman-main-style-css'  href='/wp-content/themes/hueman/assets/front/css/main.min.css?ver=3.5.8' type='text/css' media='all' />
+<style id='hueman-main-style-inline-css' type='text/css'>
+body { font-family:Arial, sans-serif;font-size:1.00rem }@media only screen and (min-width: 720px) {
+        .nav > li { font-size:1.00rem; }
+      }::selection { background-color: #7d3cff; }
+::-moz-selection { background-color: #7d3cff; }a,a+span.hu-external::after,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.sidebar.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.sidebar.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.sidebar.s1 .widget_calendar a,#footer .widget_calendar a,.sidebar.s1 .alx-tab .tab-item-category a,.sidebar.s1 .alx-posts .post-item-category a,.sidebar.s1 .alx-tab li:hover .tab-item-title a,.sidebar.s1 .alx-tab li:hover .tab-item-comment a,.sidebar.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item > a,.wp-pagenavi a{ color: #7d3cff; }input[type="submit"],.themeform button[type="submit"],.sidebar.s1 .sidebar-top,.sidebar.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.sidebar.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor > .comment-body:after,.commentlist li.comment-author-admin > .comment-body:after{ background-color: #7d3cff; }.post-format .format-container { border-color: #7d3cff; }.sidebar.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{ border-bottom-color: #7d3cff!important; }.sidebar.s2 .post-nav li a:hover i,
+.sidebar.s2 .widget_rss ul li a,
+.sidebar.s2 .widget_calendar a,
+.sidebar.s2 .alx-tab .tab-item-category a,
+.sidebar.s2 .alx-posts .post-item-category a,
+.sidebar.s2 .alx-tab li:hover .tab-item-title a,
+.sidebar.s2 .alx-tab li:hover .tab-item-comment a,
+.sidebar.s2 .alx-posts li:hover .post-item-title a { color: #9bc400; }
+.sidebar.s2 .sidebar-top,.sidebar.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.sidebar.s2 .widget_calendar caption{ background-color: #9bc400; }.sidebar.s2 .alx-tabs-nav li.active a { border-bottom-color: #9bc400; }
+.post-comments::before { border-right-color: #9bc400; }
+      .search-expand,
+              #nav-topbar.nav-container { background-color: #4cb69f!important}@media only screen and (min-width: 720px) {
+                #nav-topbar .nav ul { background-color: #4cb69f!important; }
+              }.is-scrolled #header .nav-container.desktop-sticky,
+              .is-scrolled #header .search-expand { background-color: #4cb69f!important; background-color: rgba(76,182,159,0.90)!important }.is-scrolled .topbar-transparent #nav-topbar.desktop-sticky .nav ul { background-color: #4cb69f!important; background-color: rgba(76,182,159,0.95)!important }#header { background-color: #2d545e; }
+@media only screen and (min-width: 720px) {
+  #nav-header .nav ul { background-color: #2d545e; }
+}
+        .is-scrolled #header #nav-mobile { background-color: #454e5c!important; background-color: rgba(69,78,92,0.90)!important }body { background-color: #00c07f; }
+</style>
+<link rel='stylesheet' id='hueman-font-awesome-css'  href='/wp-content/themes/hueman/assets/front/css/font-awesome.min.css?ver=3.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.3.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script type='text/javascript' id="nb-jquery" src='https://tnpscquickies.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://tnpscquickies.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/nimble-builder/assets/front/js/ccat-nimble-front.min.js?ver=2.0.20' defer></script>
+<script type='text/javascript' src='/wp-content/themes/hueman/assets/front/js/libs/jquery.flexslider.min.js?ver=3.5.8' defer></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/PLACEHOLDER.wpsho\/wp-admin\/admin-ajax.php","security":"c901107673","gallery_scrolloffset":"20","eppathtoscripts":"\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.3.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.3.1'></script>
+<link rel='https://api.w.org/' href='https://tnpscquickies.com/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tnpscquickies.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.4.1" />
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/hueman/assets/front/js/ie/html5shiv-printshiv.min.js"></script>
+<script src="/wp-content/themes/hueman/assets/front/js/ie/selectivizr.js"></script>
+<![endif]-->
+<style id="sek-dyn-skp__home-css" media="all">[data-sek-id="__nimble__498d6a09cbc6"]{background-color:#ffffff;}[data-sek-id="__nimble__498d6a09cbc6"] .sek-pg-thumbnail{border-radius:1px;}</style><style id="sek-dyn-skp__global-css" media="all"></style><link rel="icon" href="/wp-content/uploads/2020/06/favicon.ico" sizes="32x32" />
+<link rel="icon" href="/wp-content/uploads/2020/06/favicon.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="/wp-content/uploads/2020/06/favicon.ico" />
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2020/06/favicon.ico" />
+            <script id="nimble-detect-jquery">!function(){var e=function(){var e="nb-jquery-loaded";nb_.wasEmitted(e)||nb_.emit(e)},n=function(t){t=t||0,void 0!==window.jQuery?e():t<30?setTimeout(function(){n(++t)},200):alert("Nimble Builder problem : jQuery.js was not detected on your website")},t=document.getElementById("nb-jquery");t&&t.addEventListener("load",function(){e()}),n()}();</script>
+                      <style id="nb-lazyload-css-loader">@-webkit-keyframes sek-mr-loader{0%{-webkit-transform:scale(.1);transform:scale(.1);opacity:1}70%{-webkit-transform:scale(1);transform:scale(1);opacity:.7}100%{opacity:0}}@keyframes sek-mr-loader{0%{-webkit-transform:scale(.1);transform:scale(.1);opacity:1}70%{-webkit-transform:scale(1);transform:scale(1);opacity:.7}100%{opacity:0}}.sek-css-loader{width:50px;height:50px;position:absolute;-webkit-transform:translate3d(-50%,-50%,0);transform:translate3d(-50%,-50%,0);top:50%;left:50%;z-index: 1000;}.csstransforms3d .sek-css-loader{display:block}.sek-mr-loader>div:nth-child(0){-webkit-animation-delay:-.8s;animation-delay:-.8s}.sek-mr-loader>div:nth-child(1){-webkit-animation-delay:-.6s;animation-delay:-.6s}.sek-mr-loader>div:nth-child(2){-webkit-animation-delay:-.4s;animation-delay:-.4s}.sek-mr-loader>div:nth-child(3){-webkit-animation-delay:-.2s;animation-delay:-.2s}.sek-mr-loader>div{-webkit-animation-fill-mode:both;animation-fill-mode:both;position:absolute;top:0;left:0;width:100%;height:100%;border-radius:100%;border:2px solid #777;-webkit-animation:sek-mr-loader 1.25s 0s infinite cubic-bezier(.21,.53,.56,.8);animation:sek-mr-loader 1.25s 0s infinite cubic-bezier(.21,.53,.56,.8)}.white-loader>.sek-mr-loader>div{border:2px solid #fff}</style>
+          </head>
+
+<body class="home blog wp-custom-logo wp-embed-responsive sek-hide-rc-badge nimble-template-enabled col-3cm boxed header-desktop-sticky header-mobile-sticky unknown">
+<div id="wrapper">
+  <a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+  
+  <header id="header" class="top-menu-mobile-on one-mobile-menu top_menu header-ads-desktop  topbar-transparent no-header-img">
+        <nav class="nav-container group mobile-menu mobile-sticky no-menu-assigned" id="nav-mobile" data-menu-id="header-1">
+  <div class="mobile-title-logo-in-header"><p class="site-title">                  <a class="custom-logo-link" href="https://tnpscquickies.com/" rel="home" title="TNPSC Quickies | Home page"><img src="/wp-content/uploads/2020/06/cropped-tnpquickies-2.jpeg" alt="TNPSC Quickies" width="1280" height="480"/></a>                </p></div>
+        
+                    <!-- <div class="ham__navbar-toggler collapsed" aria-expanded="false">
+          <div class="ham__navbar-span-wrapper">
+            <span class="ham-toggler-menu__span"></span>
+          </div>
+        </div> -->
+        <button class="ham__navbar-toggler-two collapsed" title="Menu" aria-expanded="false">
+          <span class="ham__navbar-span-wrapper">
+            <span class="line line-1"></span>
+            <span class="line line-2"></span>
+            <span class="line line-3"></span>
+          </span>
+        </button>
+            
+      <div class="nav-text"></div>
+      <div class="nav-wrap container">
+                  <ul class="nav container-inner group mobile-search">
+                            <li>
+                  <form role="search" method="get" class="search-form" action="https://tnpscquickies.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                </li>
+                      </ul>
+                <ul id="menu-main-menu" class="nav container-inner group"><li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-183"><a href="http://tnpscquickies.com/">Home</a></li>
+<li id="menu-item-184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="https://tnpscquickies.com/?page_id=2">About</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://tnpscquickies.com/?page_id=211">Youtube Videos</a></li>
+</ul>      </div>
+</nav><!--/#nav-topbar-->  
+  
+  <div class="container group">
+        <div class="container-inner">
+
+                    <div class="group hu-pad central-header-zone">
+                  <div class="logo-tagline-group">
+                      <p class="site-title">                  <a class="custom-logo-link" href="https://tnpscquickies.com/" rel="home" title="TNPSC Quickies | Home page"><img src="/wp-content/uploads/2020/06/cropped-tnpquickies-1.jpeg" alt="TNPSC Quickies" width="1280" height="512"/></a>                </p>                                                <p class="site-description">Free TNPSC exams coaching</p>
+                                        </div>
+
+                                </div>
+      
+                <nav class="nav-container group desktop-menu " id="nav-header" data-menu-id="header-2">
+    <div class="nav-text"><!-- put your mobile menu text here --></div>
+
+  <div class="nav-wrap container">
+        <ul id="menu-main-menu-1" class="nav container-inner group"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-183"><a href="http://tnpscquickies.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184"><a href="https://tnpscquickies.com/?page_id=2">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://tnpscquickies.com/?page_id=211">Youtube Videos</a></li>
+</ul>  </div>
+</nav><!--/#nav-header-->      
+    </div><!--/.container-inner-->
+      </div><!--/.container-->
+
+</header><!--/#header-->
+                                                    <div class="sektion-wrapper " data-sek-level="location" data-sek-id="loop_start" data-sek-is-global-location="false"   >                            <div data-sek-level="section" data-sek-id="__nimble__fbea118318ae"  class="sek-section sek-has-modules   "  data-sek-lazy-bg="true" >
+                          <div class="sek-container-fluid">
+                            <div class="sek-row sek-sektion-inner">
+                                <div data-sek-level="column" data-sek-id="__nimble__5eb6b3600bb6" class="sek-column sek-col-base sek-col-100   "  data-sek-lazy-bg="true"  >                                                <div class="sek-column-inner ">
+                                                                  <div data-sek-level="module" data-sek-id="__nimble__498d6a09cbc6" data-sek-module-type="czr_post_grid_module" class="sek-module   "  data-sek-lazy-bg="true"   >                        <div class="sek-module-inner">
+                            <div class="sek-post-grid-wrapper sek-has-tablet-breakpoint sek-has-mobile-breakpoint" id="__nimble__498d6a09cbc6">
+    <div class="sek-grid-items sek-list-layout sek-thumb-custom-height ">
+            <article id="sek-pg-187" class="sek-has-thumb">
+                  <figure class="sek-pg-thumbnail">
+                                      <a href="https://tnpscquickies.com/?p=187">
+                          <img alt="default img" data-skip-lazyload="true" src="/wp-content/plugins/nimble-builder/assets/img/default-img.png"/>            </a>
+          </figure>
+                          <div class="sek-pg-content">
+                          <div class="sek-pg-category"><a href="https://tnpscquickies.com/?cat=4" rel="category">TNPSC Free Coaching</a></div>
+                                      <h2 class="sek-pg-title">
+                <a href="https://tnpscquickies.com/?p=187" rel="bookmark">Tnpsc exams</a>
+              </h2><!--/.pg-title-->
+                                      <aside class="sek-pg-metas">
+                                  <span><a href="https://tnpscquickies.com/?author=1" title="Posts by Admin" rel="author">Admin</a></span>
+                                                  <span class="published updated">June 3, 2020</span>
+                                              </aside><!--/.pg-meta-->
+                                      <div class="sek-excerpt">
+                                              </div>
+                      </div>              </article><!--/#sek-pg-->
+          <article id="sek-pg-1" class="sek-has-thumb">
+                  <figure class="sek-pg-thumbnail">
+                                      <a href="https://tnpscquickies.com/?p=1">
+                          <img  width="768" height="768"  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-sek-src="/wp-content/uploads/2020/06/tnpquickies-768x768.jpeg"  class="attachment-medium_large size-medium_large" alt="" data-sek-srcset="/wp-content/uploads/2020/06/tnpquickies-768x768.jpeg 768w, /wp-content/uploads/2020/06/tnpquickies-300x300.jpeg 300w, /wp-content/uploads/2020/06/tnpquickies-1024x1024.jpeg 1024w, /wp-content/uploads/2020/06/tnpquickies-150x150.jpeg 150w, /wp-content/uploads/2020/06/tnpquickies-65x65.jpeg 65w, /wp-content/uploads/2020/06/tnpquickies-70x70.jpeg 70w, /wp-content/uploads/2020/06/tnpquickies.jpeg 1280w" data-sek-sizes="(max-width: 768px) 100vw, 768px" />            </a>
+          </figure>
+                          <div class="sek-pg-content">
+                          <div class="sek-pg-category"><a href="https://tnpscquickies.com/?cat=5" rel="category">Government exams free coaching</a> / <a href="https://tnpscquickies.com/?cat=4" rel="category">TNPSC Free Coaching</a> / <a href="https://tnpscquickies.com/?cat=6" rel="category">TNPSC Online coaching</a></div>
+                                      <h2 class="sek-pg-title">
+                <a href="https://tnpscquickies.com/?p=1" rel="bookmark">TNPSC Quickies website!</a>
+              </h2><!--/.pg-title-->
+                                      <aside class="sek-pg-metas">
+                                  <span><a href="https://tnpscquickies.com/?author=1" title="Posts by Admin" rel="author">Admin</a></span>
+                                                  <span class="published updated">June 2, 2020</span>
+                                              </aside><!--/.pg-meta-->
+                                      <div class="sek-excerpt">
+                                <p>Welcome to TNPSC Quickies website, here you can see all the youtube video tutorials at one place.</p>
+              </div>
+                      </div>              </article><!--/#sek-pg-->
+        </div>
+          </div>                          </div>
+                    </div>                                                                              </div>
+                      </div>                                                </div>
+                          </div>
+                      </div>                                                                                                      </div>                                          
+  <div class="container" id="page">
+    <div class="container-inner">
+            <div class="main">
+        <div class="main-inner group">
+                  </div><!--/.main-inner-->
+      </div><!--/.main-->
+    </div><!--/.container-inner-->
+  </div><!--/.container-->
+    <footer id="footer">
+
+    
+    
+          <nav class="nav-container group" id="nav-footer" data-menu-id="footer-3" data-menu-scrollable="false">
+                      <!-- <div class="ham__navbar-toggler collapsed" aria-expanded="false">
+          <div class="ham__navbar-span-wrapper">
+            <span class="ham-toggler-menu__span"></span>
+          </div>
+        </div> -->
+        <button class="ham__navbar-toggler-two collapsed" title="Menu" aria-expanded="false">
+          <span class="ham__navbar-span-wrapper">
+            <span class="line line-1"></span>
+            <span class="line line-2"></span>
+            <span class="line line-3"></span>
+          </span>
+        </button>
+                    <div class="nav-text"></div>
+        <div class="nav-wrap">
+          <ul class="nav container group"><li class="current_page_item"><a href="https://tnpscquickies.com/">Home</a></li><li class="page_item page-item-2"><a href="https://tnpscquickies.com/?page_id=2">About</a></li><li class="page_item page-item-211"><a href="https://tnpscquickies.com/?page_id=211">Youtube Videos</a></li></ul>        </div>
+      </nav><!--/#nav-footer-->
+    
+    <section class="container" id="footer-bottom">
+      <div class="container-inner">
+
+        <a id="back-to-top" href="#"><i class="fas fa-angle-up"></i></a>
+
+        <div class="hu-pad group">
+
+          <div class="grid one-half">
+                        
+            <div id="copyright">
+                <p>TNPSC Quickies &copy; 2020. All Rights Reserved.</p>
+            </div><!--/#copyright-->
+
+                                                          <div id="credit" style="">
+                    <p>Powered by&nbsp;<a class="fab fa-wordpress" title="Powered by WordPress" href="https://wordpress.org/" target="_blank" rel="noopener noreferrer"></a> - Designed with the&nbsp;<a href="https://presscustomizr.com/hueman/" title="Hueman theme">Hueman theme</a></p>
+                  </div><!--/#credit-->
+                          
+          </div>
+
+          <div class="grid one-half last">
+                                                                                </div>
+
+        </div><!--/.hu-pad-->
+
+      </div><!--/.container-inner-->
+    </section><!--/.container-->
+
+  </footer><!--/#footer-->
+
+</div><!--/#wrapper-->
+
+<script type='text/javascript' src='https://tnpscquickies.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HUParams = {"_disabled":[],"SmoothScroll":{"Enabled":false,"Options":{"touchpadSupport":false}},"centerAllImg":"1","timerOnScrollAllBrowsers":"1","extLinksStyle":"","extLinksTargetExt":"","extLinksSkipSelectors":{"classes":["btn","button"],"ids":[]},"imgSmartLoadEnabled":"","imgSmartLoadOpts":{"parentSelectors":[".container .content",".container .sidebar","#footer","#header-widgets"],"opts":{"excludeImg":[".tc-holder-img"],"fadeIn_options":100,"threshold":0}},"goldenRatio":"1.618","gridGoldenRatioLimit":"350","sbStickyUserSettings":{"desktop":false,"mobile":false},"sidebarOneWidth":"340","sidebarTwoWidth":"260","isWPMobile":"","menuStickyUserSettings":{"desktop":"stick_up","mobile":"stick_up"},"mobileSubmenuExpandOnClick":"1","submenuTogglerIcon":"<i class=\"fas fa-angle-down\"><\/i>","isDevMode":"","ajaxUrl":"http:\/\/PLACEHOLDER.wpsho\/?huajax=1","frontNonce":{"id":"HuFrontNonce","handle":"f31911e22f"},"isWelcomeNoteOn":"","welcomeContent":"","i18n":{"collapsibleExpand":"Expand","collapsibleCollapse":"Collapse"},"deferFontAwesome":"","fontAwesomeUrl":"\/wp-content\/themes\/hueman\/assets\/front\/css\/font-awesome.min.css?3.5.8","mainScriptUrl":"\/wp-content\/themes\/hueman\/assets\/front\/js\/scripts.min.js?3.5.8","flexSliderNeeded":"1","flexSliderOptions":{"is_rtl":false,"has_touch_support":true,"is_slideshow":false,"slideshow_speed":5000}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/hueman/assets/front/js/scripts.min.js?ver=3.5.8' defer></script>
+<script type='text/javascript' src='/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.3.1'></script>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/hueman/assets/front/js/ie/respond.js"></script>
+<![endif]-->
+</body>
+</html>
