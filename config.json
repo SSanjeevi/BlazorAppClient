@@ -1,10 +1,10 @@
 {
     "firebase": {
-        "apiKey": "< your API key >",
-        "authDomain": "< your domain >.firebaseapp.com",
-        "databaseURL": "https://< your database URL >.firebaseio.com",
-        "projectId": "< your project ID >",
-        "storageBucket": "< your storage bucket >.appspot.com"
+        "apiKey": "AIzaSyCeDuxmzAA_3FlJO-Tsif-aDEjfaY9i0Kc",
+        "authDomain": "tnpscquickies.firebaseapp.com",
+        "databaseURL": "https://tnpscquickies.firebaseio.com",
+        "projectId": "tnpscquickies",
+        "storageBucket": "tnpscquickies.appspot.com"
     },
     "environment": "runtime"
 }
