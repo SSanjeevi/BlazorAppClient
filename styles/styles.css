@@ -220,19 +220,6 @@ pre {
 .menu .nav-link.nav-link-active {
   font-weight: bold;
 }
-.menu.menu-qisnz .dropdown {
-  box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.5) ;
-  background-color: rgba(170, 171, 184, 1);
-}
-.menu.menu-qisnz .nav-link {
-  margin-left: 20px;
-  padding-top: 5px;
-  margin-right: 25px;
-  padding-bottom: 5px;
-}
-.menu.menu-qisnz .nav-link.nav-link-active {
-  font-weight: bold;
-}
 .navbar {
   font-size: 24px;
   text-transform: lowercase;
